@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Song Yang, a Year 3 Computer Science student and an aspiring Software Engineer! 
+I'm Song Yang, a final year Computer Science student and Software Engineer! 
 <br/> 
-
-As a daily user of software applications, I value aesthetics and responsiveness. My goal as a developer is to create modern applications that are both efficient and visually pleasing, ensuring a delightful user experience.
 
 ## I'm familiar with
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
